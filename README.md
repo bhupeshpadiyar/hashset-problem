@@ -3,8 +3,8 @@ Convert Bean object with integer and list to hash set
 
 
 # Prerequisite
--- Java 1.8
--- Maven 3.xx
+-Java 1.8
+-Maven 3.xx
 
 # Steps to run the project
 
